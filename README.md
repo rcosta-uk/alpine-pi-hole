@@ -49,7 +49,7 @@ http://dl-cdn.alpinelinux.org/alpine/edge/main
 ## Donations
 If you found this project useful and wish to donate, you can use the following links:
 
-<a href='https://ko-fi.com/rcostauk' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='ko-fi.com' /></a>
+<a href='https://ko-fi.com/rcostauk' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='ko-fi.com' /></a>  <a href="https://www.buymeacoffee.com/rcosta.uk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important;" ></a> 
 
 Bitcoin: <code>bc1qhh0qjrva9f6x4wywmt87a974c6quvs8s5vzack</code>
 
